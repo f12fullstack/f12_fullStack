@@ -1,0 +1,35 @@
+.container{
+    display: inline-flex;
+}
+.bai{
+    margin: 0px 30px 0px 30px ;
+}
+.box{
+    display:block;
+    border: 2px solid red;
+
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+    border-radius: 100%;
+    text-align: center;
+}
+
+#box-1-1 , #box-1-2{
+    background-color: rgb(255,0,0);
+}
+#box-2 , #box-2-2{
+    background-color: rgb(0, 255, 0);
+}
+#box-3 , #box-3-2{
+    background-color: rgb(0, 0, 255);
+}
+h2{
+    color: white;
+    margin-top: 41.5%;
+
+}
+h1{
+    color: rgba(171, 81, 180, .5);
+}
+   
